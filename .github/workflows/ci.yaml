@@ -1,4 +1,4 @@
-user: go-lang-app-ci
+name: go-lang-app-ci
 
 on:
    push:
