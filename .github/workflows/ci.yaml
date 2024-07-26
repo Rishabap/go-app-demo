@@ -2,7 +2,7 @@ user: go-lang-app-ci
 
 on:
    push:
-        branch: 
+        branches: 
           - main
   
 jobs:
